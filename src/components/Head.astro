@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css";
 import { ViewTransitions } from "astro:transitions";
+import blogImage  from "../../public/blogImage.jpg";
 
 import "@fontsource/geist-sans/100.css";
 import "@fontsource/geist-sans/200.css";
@@ -29,7 +30,7 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = "../public/blogImage.jpg" } = Astro.props;
+const { title, description, image = blogImage } = Astro.props;
 ---
 
 <!-- Global Metadata -->

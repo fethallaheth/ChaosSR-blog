@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Chaos SR 🔬"
 description: "Welcome to Chaos SR! I share my journey in blockchain—smart contract development, security auditing, and data trends. Let’s explore decentralized tech together. "
-date: "2024-10-02"
+date: "2024-11-23"
 draft: false
 ---
 

@@ -5,6 +5,17 @@ date: "2024-11-23"
 draft: false
 ---
 
+
+test
+
+
+<!-- ---
+title: "Welcome to Chaos SR 🔬"
+description: "Welcome to Chaos SR! I share my journey in blockchain—smart contract development, security auditing, and data trends. Let’s explore decentralized tech together. "
+date: "2024-11-23"
+draft: false
+---
+
 ## Hello
 
 Salam Alikoum `hello`, and welcome to **Chaos SR**! This is my space to share everything I’m passionate about in blockchain ,smart contract development, security auditing, and analyzing trends in decentralized technology, and many more.
@@ -29,4 +40,4 @@ If you’re a developer, researcher, or blockchain enthusiast, I’d love to hea
 - [X ](https://x.com/0xlinguin)   
 - Email: fethallahbenmokhtar@gmail.com  
 
-Thanks for stopping by, and I hope you’ll stick around. There’s much more to explore! 
+Thanks for stopping by, and I hope you’ll stick around. There’s much more to explore!  -->

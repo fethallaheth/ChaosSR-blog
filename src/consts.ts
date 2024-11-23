@@ -1,7 +1,7 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "Chaos SR",
+  TITLE: "Chaos SR  ",
   DESCRIPTION: "Welcome to ChaosSR - a security researcher and developer in solidity and rust, move",
   EMAIL: "fethallahbenmokhtar@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 1,
@@ -26,7 +26,7 @@ export const PROJECTS: Metadata = {
 
 export const SOCIALS: Socials = [
   {
-    NAME: "X (formerly Twitter)",
+    NAME: "X ",
     HREF: "https://x.com/0xlinguin",
   },
   {

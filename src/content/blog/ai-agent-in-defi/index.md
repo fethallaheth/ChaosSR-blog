@@ -99,9 +99,9 @@ AI agents formulate optimal strategies based on real-time insights.
 
 - Execution :
 They interact with smart contracts to perform tasks like rebalancing, trading, or yield farming.
-- Continuous Learning :
 
-Using feedback loops, AI agents refine their strategies over time.
+- Continuous Learning :
+Using feedback loops AI agents refine their strategies over time.
 
 
 ### Conclusion

@@ -60,42 +60,47 @@ While bots follow static rules, AI agents adapt, learn, and optimize strategies 
 ### AI Agents in DeFi
 The integration of AI agents into DeFi platforms is transforming how we interact with decentralized finance. Some key applications include:
 
-- Portfolio Management
+- Portfolio Management : 
+
 AI agents can analyze market data and automatically rebalance portfolios for optimal returns.
 They can identify diversification opportunities and suggest asset allocations.
 
-- Trading Optimization
+- Trading Optimization :
+
 Agents can analyze market trends and execute trades at optimal times.
 They can implement complex trading strategies that would be difficult for humans to manage manually.
 
-- Risk Management
+- Risk Management :
+
 AI agents can continuously monitor DeFi protocols and alert users to potential risks.
 They can automatically adjust positions to mitigate exposure to specific threats.
 
-- Yield Farming Optimization
+- Yield Farming Optimization :
+
 Agents can analyze yield farming opportunities across different DeFi protocols.
 They can dynamically allocate capital to maximize returns while managing risk.
 
-- Governance Support
+- Governance Support :
+
 AI agents can analyze proposals and provide data-driven insights to DAO members.
 They can help summarize complex governance documents and estimate potential outcomes.
 
 
 
 ### How AI Agents Work in DeFi
-- Data Collection :: 
+- Data Collection :
 AI agents gather data from blockchains, market trends, and user inputs.
 
-- Analysis :: 
+- Analysis :
 Advanced algorithms analyze patterns to identify opportunities and risks.
 
-- Decision-Making ::
+- Decision-Making :
 AI agents formulate optimal strategies based on real-time insights.
 
-- Execution :: 
+- Execution :
 They interact with smart contracts to perform tasks like rebalancing, trading, or yield farming.
+- Continuous Learning :
 
-- Continuous Learning ::
 Using feedback loops, AI agents refine their strategies over time.
 
 

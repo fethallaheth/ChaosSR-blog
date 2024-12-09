@@ -34,7 +34,7 @@ AI agents are software entities that can perform autonomous operations following
 - Long-term memory to learn from experiences and improve over time
 - Self-sufficiency to operate independently, though still requiring human oversight for critical decisions
 
-In the context of Web3 and DeFi, AI agents are enabling more intelligent, automated interactions across decentralized ecosystems. They can analyze data, execute transactions, and provide personalized support to users - making blockchain technology more accessible and efficient.
+In the context of Blockchain and DeFi, AI agents are enabling more intelligent, automated interactions across decentralized ecosystems. They can analyze data, execute transactions, and provide personalized support to users - making blockchain technology more accessible and efficient.
 
 ### AI Agents vs. Bots in DeFi
 

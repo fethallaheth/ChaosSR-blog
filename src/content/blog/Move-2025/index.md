@@ -79,7 +79,7 @@ For more insights, you can explore the [resource](https://defillama.com/chains/N
 
 The Move ecosystem is growing fast, with new projects, tools, and community support popping up all the time. While there aren't as many protocols as big players like Solana or EVM chains, Move's special features are attracting a creative and dedicated community. This makes it easier for developers to build and launch Move-based apps.
 
-New Move-based blockchains are also emerging, including Layer 2 solutions in the EVM space `Movemant labs` with the new MovEvm. Additionally, some blockchains are exploring exciting new possibilities with AI and blockchain, taking Move to the next level and offering great opportunities for developers and users.
+New Move-based blockchains are also emerging, including Layer 2 solution in the ethereum space `Movement labs` with the new MovEvm. Additionally, some blockchains are exploring exciting new possibilities with AI and blockchain, taking Move to the next level and offering great opportunities for developers and users.
 
 
 ## Market Potential in 2025

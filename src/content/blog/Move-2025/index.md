@@ -1,8 +1,8 @@
 ---
-Title: "Why Learn Move in 2025? 🚀"
-Description: "Explore why Move is becoming a game-changer in blockchain development. From resource-oriented programming to its adoption by Sui and Aptos, discover why 2025 is the perfect time to master Move."
-Date: "2024-12-10"
-Draft: false
+title: "Why Learn Move in 2025? 🚀"
+description: "Explore why Move is becoming a game-changer in blockchain development. From resource-oriented programming to its adoption by Sui and Aptos, discover why 2025 is the perfect time to master Move."
+date: "2024-12-10"
+draft: false
 ---
 
 ## Introduction

@@ -48,7 +48,6 @@ Move simplifies some aspects of Rust while retaining its power for blockchain us
 In a crowded space of programming languages, Move sets itself apart. Its unique features and focus on security make it a compelling choice for blockchain development, despite some limitations. A detailed comparison with popular languages like Solidity and Rust highlights the advantages and potential drawbacks of using Move.
 
 
-
 ## Job Opportunities in Move vs Solidity
 
 The blockchain industry is experiencing a growing demand for Move developers and auditors. While Solidity remains the dominant language for EVM chains, the large number of developers and auditors in this space has led to a saturated job market. Many professionals are competing for the same positions, making it challenging for newcomers to find opportunities.
@@ -61,7 +60,6 @@ Overall, the Move ecosystem presents a unique opportunity for professionals to g
 
 
 ## Increasing Adoption of Move
-
 
 ### Sui and Aptos Leading the Way
 
